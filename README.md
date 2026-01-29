@@ -1,15 +1,29 @@
-# Ahmad Fachri
+<h1 align="center">Hi there, I'm Ahmad Fachri 👋</h1>
 
-🚀 Informatics Engineering Student  
-🤖 AI Engineer | ☁️ Cloud & Infrastructure | 🔐 Cyber Security  
+<p align="center">
+🚀 Informatics Engineering Student <br>
+🤖 AI Engineer | ☁️ Cloud & Infrastructure | 🔐 Cyber Security
+</p>
+
+<p align="center">
+<a href="https://github.com/Ahmadfachri12">
+  <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
 
 ---
 
 ## 👋 About Me
 I am an Informatics Engineering student with a strong technical focus on **Artificial Intelligence Engineering, Cloud Infrastructure, and Cyber Security**.  
-I have experience working with real-world systems, understanding how applications, infrastructure, and security interact in production environments.
+I work across application, infrastructure, and security layers, with an understanding of how systems behave in **real-world and production environments**.
 
-My interests lie in designing **scalable systems**, **secure architectures**, and **intelligent solutions** using modern technologies.
+My interests include building **secure, scalable, and intelligent systems**, as well as analyzing vulnerabilities and system performance.
 
 ---
 
@@ -18,44 +32,31 @@ My interests lie in designing **scalable systems**, **secure architectures**, an
 ### 🤖 AI Engineering
 - Machine Learning fundamentals & model evaluation
 - Data preprocessing & feature engineering
-- Understanding of **LLM architecture** and **RAG (Retrieval-Augmented Generation)**
+- Understanding **LLM architecture** & **RAG (Retrieval-Augmented Generation)**
 - Prompt engineering & AI system integration
-- Python for AI pipelines and automation
+- Python-based AI pipelines & automation
 
 ### ☁️ Cloud & Infrastructure
 - Linux system administration
-- Containerization using Docker
-- Cloud architecture fundamentals (IaaS, compute & networking)
+- Containerization with Docker
+- Cloud architecture fundamentals (IaaS)
 - CI/CD concepts (Jenkins, GitHub Actions)
-- Infrastructure monitoring & basic automation
+- Infrastructure monitoring & deployment workflows
 
 ### 🔐 Cyber Security
 - Web application security fundamentals
 - Cryptography concepts (RSA, ElGamal, hashing)
 - Capture The Flag (CTF) challenges
-- Security assessment & vulnerability analysis
-- Understanding of secure system design principles
+- Vulnerability assessment & threat analysis
+- Secure system design principles
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-**Languages**
-- Python
-- PHP
-- SQL
-
-**Frameworks & Tools**
-- Laravel
-- Docker
-- Git & GitHub
-- Jenkins
-- Linux
-
-**Domains**
-- Artificial Intelligence
-- Cloud Computing
-- Cyber Security
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws" />
+</p>
 
 ---
 
@@ -63,22 +64,26 @@ My interests lie in designing **scalable systems**, **secure architectures**, an
 - ☁️ Cloud-based E-Learning Platform (AWS IaaS)
 - 🔐 CTF & Cryptography Security Challenges
 - 🤖 AI & Machine Learning Experiments
-- 🌐 Web Applications with Laravel
+- 🌐 Web Applications using Laravel
 
-(See pinned repositories below)
+(See pinned repositories below 👇)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadfachri12&show_icons=true&theme=default" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 - Advanced AI Engineering & LLM-based systems
 - Secure cloud infrastructure deployment
-- Real-world security case analysis
-- Internship & industry-level projects
+- Cyber security case studies & CTFs
+- Industry-level & internship projects
 
 ---
 
-## 📫 Contact
-GitHub: https://github.com/Ahmadfachri11
-
----
-⭐ Building secure, scalable, and intelligent systems.
+⭐ Designing secure, scalable, and intelligent systems.
