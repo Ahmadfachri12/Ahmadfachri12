@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Ahmadfachri12">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub-black?style=for-the-badge&logo=github">
+<a href="https://your-portfolio-site.com">
+  <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/username">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="mailto:your@email.com">
@@ -66,15 +66,7 @@ My interests include building **secure, scalable, and intelligent systems**, as 
 - 🤖 AI & Machine Learning Experiments
 - 🌐 Web Applications using Laravel
 
-(See pinned repositories below 👇)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmadfachri11&show_icons=true&theme=default" />
-</p>
 
 ---
 
