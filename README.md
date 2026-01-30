@@ -30,7 +30,7 @@ I am highly interested in **scalable systems, CI/CD automation, infrastructure a
 
 ## 🧠 Core Expertise
 
-### ☁️ DevOps & Cloud Engineering (Primary Focus)
+### ☁️ DevOps & Cloud Engineering
 - Linux system administration & server hardening
 - Containerization & orchestration using Docker
 - CI/CD pipeline design (Jenkins, GitHub Actions)
@@ -67,21 +67,6 @@ I am highly interested in **scalable systems, CI/CD automation, infrastructure a
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
-
----
-
-## 📂 Selected Projects
-- ☁️ **Cloud-Based E-Learning Platform**  
-  AWS IaaS deployment with scalable architecture & secure configuration
-
-- 🔐 **Web Security & CTF Challenges**  
-  Vulnerability analysis, exploitation, and security hardening practices
-
-- 🤖 **AI & Machine Learning Experiments**  
-  Model training, evaluation, and LLM-based system exploration
-
-- 🌐 **Web Applications**  
-  Backend-driven systems with authentication & database integration
 
 ---
 
