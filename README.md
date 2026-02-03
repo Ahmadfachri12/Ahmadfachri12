@@ -6,18 +6,6 @@
 🚀 Informatics Engineering Student <br>
 </h2>
 
-<p>
-<a href="https://nantiya">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
-</a>
-<a href="https://www.linkedin.com/in/ahmad-fachri-6873b2293">
-  <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Fachri-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:ahmdfhri09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-</p>
-
 ---
 
 ## 👋 About Me
@@ -31,31 +19,28 @@ I enjoy working with **cloud infrastructure, CI/CD pipelines, infrastructure as 
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,jenkins,grafana,prometheus" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,html,css,bootstrap,tailwind,laravel,mysql,docker,linux,git,github,vscode,aws,ansible,terraform,jenkins" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-FF6A00?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-## 📜 Certifications & Achievements
-- 🎓 <a href="https://sinufia.nfacademy.id/certificate-verification/46b7da63-49cc-4ee4-ad19-765116c7a80b">Independent Study Program – DevOps Engineer (NF Academy)</a>
-- 🥉 <a href="https://drive.google.com/file/d/1n2HeT5AhYXM_OwuYiXUAgzYplxNdoc19/view?usp=sharing">3rd Place – Internal Capture The Flag (CTF)</a>
-- 🏁 <a href="https://drive.google.com/file/d/1rBWwTSieVebYmsvu3yxSPwHbwFXBnQH8/view?usp=sharing">National-Level CTF Participant – I-FEST #13</a>
-
----
-
-## 🎯 Current Focus
-- Cloud & DevOps best practices
-- CI/CD automation & Infrastructure as Code
-- Monitoring, logging, and system reliability
-- Web application penetration testing
-- AI & LLM-based experimentation
-- Industry-oriented projects & internships
-
+## 🌎 Find me around the web
+<p>
+<a href="https://nantiya">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome">
+</a>
+<a href="https://www.linkedin.com/in/ahmad-fachri-6873b2293">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Fachri-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:ahmdfhri09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+</p>
 ---
 
 ⭐ **Passionate about building secure, scalable, and intelligent systems through DevOps practices.**
